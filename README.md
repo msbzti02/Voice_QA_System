@@ -238,15 +238,10 @@ voice-qa-system/
 │
 ├── 📓 Voice_QA_System.ipynb      # Main Jupyter notebook implementation
 ├── 📄 README.md                   # Project documentation
-├── 📄 Voice_QA_System_Report.pdf  # Academic project report
-├── 📄 Voice_QA_System_Report.docx # Editable report document
 │
 ├── 🎵 sample_question.wav         # Sample input audio file
 ├── 🎵 answer_of_question.mp3      # Generated audio response
-│
-├── 📁 .venv/                      # Python virtual environment
-│
-└── 📄 requirements.txt            # Python dependencies (optional)
+
 ```
 
 ---
@@ -383,3 +378,4 @@ copies or substantial portions of the Software.
 <p align="center">
   <a href="#-voice-powered-qa-system">⬆️ Back to Top</a>
 </p>
+
